@@ -52,7 +52,7 @@ The system is stable and easy to use.
 
 Developers can develop and promote Dapp at low cost.
 
-Users can participate in Dapp on Bitindi with a low threshold.</td><td rowspan=9 >2020 Q4-2021 Q1</td><td rowspan=3 >Public Beta</td><td>Higher transaction performance</td></tr>
+Users can participate in Dapp on Bitindi with a low threshold.</td><td rowspan=9 >2023 Q4-2024 Q1</td><td rowspan=3 >Public Beta</td><td>Higher transaction performance</td></tr>
 <tr style="background:rgba(0,0,0,0)" ><td>Lower transaction costs</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Meta transaction subsidy</td></tr>
 <tr style="background:rgba(0,0,0,0)"> <td rowspan=3 >Node Election</td><td>More decentralized and safer</td></tr>
