@@ -1,7 +1,7 @@
-# HECO Chain
+# BITINDI Chain
 
-## Introduction to HECO Chain
-HECO Chain (Heco) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Heco is HT and it adopts the HPoS consensus mechanism. Heco will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
+## Introduction to BITINDI Chain
+BITINDI Chain (Heco) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Heco is HT and it adopts the HPoS consensus mechanism. Heco will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
 ## Declaration
 To help developers’ evolvement at every stage 
@@ -91,23 +91,16 @@ Support a variety of traditional businesses to run smoothly on the chain</td> <t
 
 </table>
 
-
-
-## Current Stage of Heco
-In December 2020, the HECO Chain, Heco officially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
-Oracles, Voting tools, Anchor Coins, DEX, Lending, Financial Management, Insurance, Synthetic Assets, Cross-Chain Solutions, Data Analysis, Smart Contract Innovation, etc.
-In October 2021, HECO has now entered the "Spark" phase, which focuses on improving developer and user experience and infrastructure.
-
-## Support Plan of Heco
+## Support Plan of BITINDI
 ### Financial Support
-- Heco will set up a special fund to invest, support and incentivize high-potential developers.
-- Heco will launch a variety of developer activities and competitions to discover and fund potential developers. 
+- BITINDI will set up a special fund to invest, support and incentivize high-potential developers.
+- BITINDI will launch a variety of developer activities and competitions to discover and fund potential developers. 
 - In order to reduce the cost of users on Heco Dapp, the Heco meta transaction function will reduce the gas fee of users holding HT in a step-wise manner.
 
 ### Resource Support
 - Projects or developers that have received investment and support from Heco have not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
 - High-quality projects can participate in Heco global roadshows for free.
-- Huobi ventures HECO fund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
+- Huobi ventures BITINDI fund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
 
 ### Participate in Test Environment of Heco
 
@@ -119,32 +112,32 @@ chainid 256
 
 #### PRC
 
-wss://ws-testnet.hecochain.com
-https://http-testnet.hecochain.com
+wss://ws-testnet.bitindi.com
+https://http-testnet.bitindi.com
 
 #### Blockchain Explorer
 
-https://scan-testnet.hecochain.com
+https://scan-testnet.bitindi.com
 
 #### Test Coin Faucet
 
-https://scan-testnet.hecochain.com/faucet
+https://scan-testnet.bitindi.com/faucet
 
 
 #### Technical Support Email
 
-DevContacts@hecochain.com
+Dev@bitindi.com
 
 
 ## Interact with Us on Social Media
 
-- Twitter: https://twitter.com/HECO_Chain
-- Telegram Channel: https://t.me/Huobiecochainofficial
-- Medium: https://medium.com/heco-chain
-- GitHub: https://github.com/stars-labs/
-- HECO Explorer: https://hecoinfo.com
-- Documentation: https://docs.hecochain.com/#/en-us/intro
-- Website: https://www.hecochain.com/en-us/
+- Twitter: https://twitter.com/BITINDI_DEX
+- Telegram Channel: https://t.me/BITINDI_DEX
+- Medium: https://bitindi.medium.com/
+- GitHub: https://github.com/bitindi/
+- HECO Explorer: 
+- Documentation: https://docs.bitindi.com
+- Website: https://www.bitindi.com
 
 
 ## Risk Warning
