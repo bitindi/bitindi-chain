@@ -114,6 +114,7 @@ chainid 256
 
 wss://ws-testnet.bitindi.com
 https://http-testnet.bitindi.com
+https://http-mainnet.bitindi.com
 
 #### Blockchain Explorer
 
