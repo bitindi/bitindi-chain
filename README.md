@@ -52,7 +52,7 @@ The system is stable and easy to use.
 
 Developers can develop and promote Dapp at low cost.
 
-Users can participate in Dapp on Bitindi with a low threshold.</td><td rowspan=9 >2023 Q4-2024 Q1</td><td rowspan=3 >Public Beta</td><td>Higher transaction performance</td></tr>
+Users can participate in Dapp on Bitindi with a low threshold.</td><td rowspan=9 >2023 Q1-2023 Q2</td><td rowspan=3 >Public Beta</td><td>Higher transaction performance</td></tr>
 <tr style="background:rgba(0,0,0,0)" ><td>Lower transaction costs</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Meta transaction subsidy</td></tr>
 <tr style="background:rgba(0,0,0,0)"> <td rowspan=3 >Node Election</td><td>More decentralized and safer</td></tr>
@@ -67,7 +67,7 @@ The protocol is further optimized.
 
 Bitindi will take the mission of connecting CeFi and DeFi, 
 
-allowing more users to use DeFi applications at a low threshold.  </td> <td rowspan=5 >2023 Q1 </td> <td rowspan=5 > To be announced  </td> <td>Complete developer tools</td></tr>
+allowing more users to use DeFi applications at a low threshold.  </td> <td rowspan=5 >2023 Q2 </td> <td rowspan=5 > To be announced  </td> <td>Complete developer tools</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Complete developer forum, blog, and FAQ information</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Chain ecological infrastructure booms</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Innovative open ID</td></tr>
@@ -76,14 +76,14 @@ allowing more users to use DeFi applications at a low threshold.  </td> <td rows
 <tr style="background:rgba(0,0,0,0)"><td rowspan=3>Flame</td> <td rowspan=3>
 
 Enable Layer2 technology.
-Expand performance while retaining the decentralized advantages of distributed protocols.</td><td rowspan=3>2023 Q2</td><td rowspan=3>To be announced</td><td>Application of Layer2</td></tr>
+Expand performance while retaining the decentralized advantages of distributed protocols.</td><td rowspan=3>2023 Q4</td><td rowspan=3>To be announced</td><td>Application of Layer2</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Cross-chain interoperability protocol</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Cross-chain interoperability integration</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td rowspan=5>Blaze</td> <td rowspan=5>
 
 
 Landing of large-scale commercial applications. 
-Support a variety of traditional businesses to run smoothly on the chain</td> <td rowspan=5>2023 Q1</td> <td rowspan=5>To be announced</td><td>Multiple virtual machine s supported</td></tr>
+Support a variety of traditional businesses to run smoothly on the chain</td> <td rowspan=5>2024 Q1</td> <td rowspan=5>To be announced</td><td>Multiple virtual machine s supported</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Multiple zero-knowledge proofs and privacy protection capabilities</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Multiple signature schemes</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Storage compression and expansion solution</td></tr>
