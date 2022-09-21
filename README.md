@@ -95,17 +95,17 @@ Support a variety of traditional businesses to run smoothly on the chain</td> <t
 ### Financial Support
 - BITINDI will set up a special fund to invest, support and incentivize high-potential developers.
 - BITINDI will launch a variety of developer activities and competitions to discover and fund potential developers. 
-- In order to reduce the cost of users on Heco Dapp, the Heco meta transaction function will reduce the gas fee of users holding HT in a step-wise manner.
+- In order to reduce the cost of users on Bitindi Dapp, the Bitindi meta transaction function will reduce the gas fee of users holding HT in a step-wise manner.
 
 ### Resource Support
-- Projects or developers that have received investment and support from Heco have not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
-- High-quality projects can participate in Heco global roadshows for free.
+- Projects or developers that have received investment and support from Bitindi have not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
+- High-quality projects can participate in Bitindi global roadshows for free.
 - Huobi ventures BITINDI fund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
 
-### Participate in Test Environment of Heco
+### Participate in Test Environment of Bitindi
 
 #### Official Website
-www.hecochain.com
+www.bitindi.com
 
 #### Public Testnet
 chainid 256
@@ -135,13 +135,13 @@ Dev@bitindi.com
 - Telegram Channel: https://t.me/BITINDI_DEX
 - Medium: https://bitindi.medium.com/
 - GitHub: https://github.com/bitindi/
-- HECO Explorer: 
+- Bitindi Explorer: 
 - Documentation: https://docs.bitindi.com
 - Website: https://www.bitindi.com
 
 
 ## Risk Warning
-- All users and developers can participate in the current test environment and subsequent stages of Heco for free, and there is no charging scenario.
+- All users and developers can participate in the current test environment and subsequent stages of Bitindi for free, and there is no charging scenario.
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
-- Heco announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
-- Do not misread the official website (hecochain.com), and be cautious with private key phishing.
+- Bitindi announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
+- Do not misread the official website (bitindi.com), and be cautious with private key phishing.
