@@ -67,7 +67,7 @@ The protocol is further optimized.
 
 Bitindi will take the mission of connecting CeFi and DeFi, 
 
-allowing more users to use DeFi applications at a low threshold.  </td> <td rowspan=5 >2021 Q3 </td> <td rowspan=5 > To be announced  </td> <td>Complete developer tools</td></tr>
+allowing more users to use DeFi applications at a low threshold.  </td> <td rowspan=5 >2023 Q1 </td> <td rowspan=5 > To be announced  </td> <td>Complete developer tools</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Complete developer forum, blog, and FAQ information</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Chain ecological infrastructure booms</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Innovative open ID</td></tr>
@@ -76,7 +76,7 @@ allowing more users to use DeFi applications at a low threshold.  </td> <td rows
 <tr style="background:rgba(0,0,0,0)"><td rowspan=3>Flame</td> <td rowspan=3>
 
 Enable Layer2 technology.
-Expand performance while retaining the decentralized advantages of distributed protocols.</td><td rowspan=3>2022 Q2</td><td rowspan=3>To be announced</td><td>Application of Layer2</td></tr>
+Expand performance while retaining the decentralized advantages of distributed protocols.</td><td rowspan=3>2023 Q2</td><td rowspan=3>To be announced</td><td>Application of Layer2</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Cross-chain interoperability protocol</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Cross-chain interoperability integration</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td rowspan=5>Blaze</td> <td rowspan=5>
