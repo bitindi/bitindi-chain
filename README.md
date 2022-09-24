@@ -21,7 +21,7 @@ The maximum number of validators supported is 21.
 ## Economic Model 
 The endogenous token on the chain is HT; the transactions consume HT as gas fee.
 
-Miners pledge HT to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
+Miners pledge BNI to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
 
 ## Cross-Chain
 Assets such as BTC, ETH and stable coins can be mapped to Bitindi by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Bitindi. 
@@ -95,7 +95,7 @@ Support a variety of traditional businesses to run smoothly on the chain</td> <t
 ### Financial Support
 - BITINDI will set up a special fund to invest, support and incentivize high-potential developers.
 - BITINDI will launch a variety of developer activities and competitions to discover and fund potential developers. 
-- In order to reduce the cost of users on Bitindi Dapp, the Bitindi meta transaction function will reduce the gas fee of users holding HT in a step-wise manner.
+- In order to reduce the cost of users on Bitindi Dapp, the Bitindi meta transaction function will reduce the gas fee of users holding BNI in a step-wise manner.
 
 ### Resource Support
 - Projects or developers that have received investment and support from Bitindi have not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
