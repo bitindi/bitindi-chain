@@ -132,8 +132,8 @@ Dev@bitindi.com
 
 ## Interact with Us on Social Media
 
-- Twitter: https://twitter.com/BITINDI_DEX
-- Telegram Channel: https://t.me/BITINDI_DEX
+- Twitter: https://twitter.com/bitindichian
+- Telegram Channel: https://t.me/bitindichian
 - Medium: https://bitindi.medium.com/
 - GitHub: https://github.com/bitindi/
 - Bitindi Explorer: 
